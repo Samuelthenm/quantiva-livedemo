@@ -4,6 +4,12 @@ A responsive finance dashboard built with **Next.js**, **Tailwind CSS**, and **T
 
 ![Quantiva Dashboard Demo](public/QuantivaScreenRecording.gif)
 
+
+## Test website
+
+https://quantiva-livedemo.vercel.app
+
+
 ## ✨ Features
 
 - Account summary with individual balances
@@ -21,6 +27,3 @@ A responsive finance dashboard built with **Next.js**, **Tailwind CSS**, and **T
 - Allow users to add, edit, and delete transactions
 - Analytics section with graphs and trends
 
-## Test website
-
-- Click on the link under "About"
