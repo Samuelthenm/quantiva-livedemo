@@ -20,3 +20,7 @@ A responsive finance dashboard built with **Next.js**, **Tailwind CSS**, and **T
 - Connect to real financial APIs (e.g., Plaid)
 - Allow users to add, edit, and delete transactions
 - Analytics section with graphs and trends
+
+## Test website
+
+- Click on the link under "About"
