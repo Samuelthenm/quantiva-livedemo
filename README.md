@@ -1,6 +1,6 @@
 # Quantiva: A Financial Dashboard 📊
 
-A responsive finance dashboard built with **Next.js**, **Tailwind CSS**, and **TypeScript**. The UI is designed to display account balances, recent transactions, and quick actions, with built-in **light/dark mode toggle**.
+A responsive finance dashboard built with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. The UI is designed to display account balances, recent transactions, and quick actions, with built-in **light/dark mode toggle**.
 
 ![Quantiva Dashboard Demo](public/QuantivaScreenRecording.gif)
 
